@@ -1,0 +1,8 @@
+{
+  "name": "Pole Chudes: Asistencia (Հայերեն - Español)",
+  "description": "Интерактивная образовательная игра 'Поле чудес' на тему футбольных диалогов тренер-игрок для изучения испанского с армянского, с угадыванием тайного слова ASISTENCIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
